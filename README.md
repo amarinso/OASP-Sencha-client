@@ -1,1 +1,2 @@
-# OASP-Sencha-client
+# oasp-sencha-client
+sample client for OASP project
