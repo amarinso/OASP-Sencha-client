@@ -66,8 +66,8 @@ Ext.define('App1.controller.AppController', {
             autoDestroy: false
         });
 
-//				this.loadUser();
-				this.showMain();
+				this.loadUser();
+//				this.showMain();
 
     },
 
